@@ -11,3 +11,12 @@ Sylvia Knöfel | Bereich Internetrecht bei der IHK Ostthüringen
 #### SEO-Basiswissen für Webentwickler und praktische Tipps & Tools
 Pierre Geyer | next.motion
 * [Slides](2019/06-June/SEO_Suchmaschinenoptimierung.pdf)
+
+### August
+#### What's new in PhpStorm 2019.2
+Pierre Geyer | next.motion
+* [Changelog](https://www.jetbrains.com/phpstorm/whatsnew/)
+
+#### Basiswissen über Facebook Ads und deren Zukunft
+Oliver Mahrle | Jungunternehmer
+* [Slides](2019/08-August/Facebook_Ads.pdf)
