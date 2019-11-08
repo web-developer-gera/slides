@@ -3,6 +3,11 @@ Place to share presentation material from the Web Developer Gera
 
 ## 2019
 
+### November
+#### Basiswissen über Triplestore, SPARQL und DBpedia
+Johannes Götze | Elsterkind GmbH
+* [Slides](2019/11-November/WDG_Triplestore_DBpedia_SPARQL.pdf)
+
 ### Agust
 #### What's new in PhpStorm 2019.2
 Pierre Geyer | next.motion
